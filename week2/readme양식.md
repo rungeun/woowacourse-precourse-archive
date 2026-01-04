@@ -240,6 +240,6 @@
   정리 문서
 - [ ] [🪐2주차 피드백](https://github.com/rungeun/woowacourse-precourse-archive/blob/main/week2/2%EC%A3%BC%EC%B0%A8%20%ED%94%BC%EB%93%9C%EB%B0%B1.md)
   정리 문서
-- [ ] [🪐2주차 피드백](https://github.com/rungeun/woowacourse-precourse-archive/blob/main/week3)
+- [ ] [🪐3주차 피드백](https://github.com/rungeun/woowacourse-precourse-archive/blob/main/week3/3%EC%A3%BC%EC%B0%A8%20%ED%94%BC%EB%93%9C%EB%B0%B1.md)
   정리 문서
 
