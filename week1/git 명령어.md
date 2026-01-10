@@ -1,13 +1,13 @@
-<img src="image/woowacourseLogo.webp" alt="woowacourseLogo" style="width: 32%; display: block; margin: 0 auto;">
+<img src="../image/woowacourseLogo.webp" alt="woowacourseLogo" style="width: 32%">
 
 # 🪐 기본적인 Git 명령어
-
-## 피드백 내용
 
 > "git은 개발자 간의 협업을 위한 가장 기본적인 프로그램으로,
 > 컴퓨터 파일의 변경 사항을 추적하고 여러 사용자 간의 해당 파일에 대한 작업을 조정한다.
 > 지금은 add, commit, push 등의 간단한 명령어만 배워도 충분하지만,
 > Git에 대해 미리 알아두어도 나쁠 것은 없다."
+> 
+> _※ 프리코스 1주차 피드백에서 발췌_
 
 --- 
 
